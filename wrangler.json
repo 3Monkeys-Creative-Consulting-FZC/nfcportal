@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "nfcportal",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "18e2a1d6-3740-43cc-a5a2-ca98d940e68a",
+			"database_name": "nfc-portal-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
